@@ -1,4 +1,4 @@
-### Oi! Sou Sylvia Monteiro e meu mantra é: "Hoje sei mais que ontem e menos que amanhã."
+### Oiee! Sou Sylvia Monteiro e meu mantra é: "Hoje sei mais que ontem e menos que amanhã."
 
 - 🔭 Almejo trabalhar com desenvolvimento back-end
 - 🌱 Estudando até o presente momento: Java | SQL| SPRING BOOT 
