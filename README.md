@@ -1,7 +1,7 @@
-### Oiee, sou Sylvia Monteiro!!
-- 🔭 Almejo trabalhar com desenvolvimento back-end
-- 🌱 Estudando até o presente momento: Java | SQL | SPRING BOOT 
-- 😄 Pronouns ela/ella/she
+###  Olá, sou Sylvia Monteiro!!
+
+- 🌱 Estudando até o presente momento: JAVA | SpringBoot | MySQL | HTML | CSS | JavaScript | Angular
+
 
 <div align="center">
   <a href="https://github.com/sylviamonteiro">
